@@ -3,7 +3,7 @@
     "name" : "Roman Society",
     "buildingNeedPerZone" : {"RESIDENTIAL" : 2, "COMMERCIAL" : 8, "GOVERNMENT" : 1, "RELIGIOUS": 1},
     "growthRate" : 900,
-    "availableBuildings" : ["Insulae", "SenateHouse"],
+    "availableBuildings" : ["Insulae", "SenateHouse", "Market"],
     "residentialZones" : ["RESIDENTIAL"]
   }
 }

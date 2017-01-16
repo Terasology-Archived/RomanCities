@@ -1,0 +1,12 @@
+{
+  "GenericBuilding": {
+    "name": "Market",
+    "templateNames": [
+      "RomanCities:market"
+    ],
+    "zone": "COMMERCIAL",
+    "minSize": [20, 17],
+    "maxSize": [26, 26],
+    "isEntity": true
+  }
+}
