@@ -1,0 +1,7 @@
+{
+    "DistrictType" : {
+        "name" : "religious",
+        "color" : 435724,
+        "zones" : ["RELIGIOUS"]
+    }
+}

@@ -1,0 +1,12 @@
+{
+  "GenericBuilding": {
+    "name": "Temple",
+    "templateNames": [
+      "RomanCities:temple"
+    ],
+    "zone": "RELIGIOUS",
+    "minSize": [],
+    "maxSize": [],
+    "isEntity": true
+  }
+}

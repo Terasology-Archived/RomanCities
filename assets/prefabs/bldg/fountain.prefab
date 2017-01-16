@@ -1,0 +1,12 @@
+{
+  "GenericBuilding": {
+    "name": "Fountain",
+    "templateNames": [
+      "RomanCities:fountain"
+    ],
+    "zone": "RESIDENTIAL",
+    "minSize": [],
+    "maxSize": [],
+    "isEntity": true
+  }
+}

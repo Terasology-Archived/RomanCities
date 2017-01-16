@@ -1,0 +1,7 @@
+{
+    "DistrictType" : {
+        "name" : "government",
+        "color" : 435326,
+        "zones" : ["GOVERNMENT"]
+    }
+}

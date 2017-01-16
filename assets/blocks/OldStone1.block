@@ -1,0 +1,9 @@
+{
+    "hardness": 12,
+    "mass": 100,
+    "tiles":
+     {
+     "topBottom":"RomanCities:oldStone",
+     "sides":"RomanCities:bottomLineStone"
+     }
+}

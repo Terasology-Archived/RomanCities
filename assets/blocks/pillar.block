@@ -1,0 +1,8 @@
+{
+    "hardness": 12,
+    "mass": 100,
+    "tiles": {
+            "topBottom": "RomanCities:pillarTop",
+            "sides": "RomanCities:pillarSides"
+        }
+}
