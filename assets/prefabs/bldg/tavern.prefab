@@ -2,7 +2,7 @@
   "GenericBuilding": {
     "name": "Tavern",
     "templateNames": [
-      "RomanCities:taverna"
+      "RomanCities:tavernaTemplate"
     ],
     "zone": "COMMERCIAL",
     "minSize": [12, 10],

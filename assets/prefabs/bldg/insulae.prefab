@@ -2,7 +2,7 @@
   "GenericBuilding": {
     "name": "Insulae",
     "templateNames": [
-      "RomanCities:insulae"
+      "RomanCities:insulaeTemplate"
     ],
     "zone": "RESIDENTIAL",
     "minSize": [20, 20],

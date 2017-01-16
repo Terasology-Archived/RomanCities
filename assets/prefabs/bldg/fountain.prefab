@@ -2,7 +2,7 @@
   "GenericBuilding": {
     "name": "Fountain",
     "templateNames": [
-      "RomanCities:fountain"
+      "RomanCities:fountainTemplate"
     ],
     "zone": "RESIDENTIAL",
     "minSize": [9, 9],

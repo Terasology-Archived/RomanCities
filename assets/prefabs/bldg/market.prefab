@@ -2,7 +2,7 @@
   "GenericBuilding": {
     "name": "Market",
     "templateNames": [
-      "RomanCities:market"
+      "RomanCities:marketTemplate"
     ],
     "zone": "COMMERCIAL",
     "minSize": [20, 17],

@@ -2,7 +2,7 @@
   "GenericBuilding": {
     "name": "SenateHouse",
     "templateNames": [
-      "RomanCities:senateHouse"
+      "RomanCities:senateHouseTemplate"
     ],
     "zone": "GOVERNMENT",
     "minSize": [17, 24],
