@@ -5,8 +5,8 @@
       "RomanCities:taverna"
     ],
     "zone": "COMMERCIAL",
-    "minSize": [],
-    "maxSize": [],
+    "minSize": [12, 10],
+    "maxSize": [16, 15],
     "isEntity": true
   }
 }

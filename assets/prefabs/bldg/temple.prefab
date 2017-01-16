@@ -5,8 +5,8 @@
       "RomanCities:temple"
     ],
     "zone": "RELIGIOUS",
-    "minSize": [],
-    "maxSize": [],
+    "minSize": [24, 25],
+    "maxSize": [30, 31],
     "isEntity": true
   }
 }

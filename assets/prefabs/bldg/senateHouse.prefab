@@ -5,8 +5,8 @@
       "RomanCities:senateHouse"
     ],
     "zone": "GOVERNMENT",
-    "minSize": [],
-    "maxSize": [],
+    "minSize": [17, 24],
+    "maxSize": [26, 32],
     "isEntity": true
   }
 }

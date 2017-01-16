@@ -5,8 +5,8 @@
       "RomanCities:fountain"
     ],
     "zone": "RESIDENTIAL",
-    "minSize": [],
-    "maxSize": [],
+    "minSize": [9, 9],
+    "maxSize": [14, 14],
     "isEntity": true
   }
 }

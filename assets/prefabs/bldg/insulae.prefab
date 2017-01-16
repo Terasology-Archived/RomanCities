@@ -5,8 +5,8 @@
       "RomanCities:insulae"
     ],
     "zone": "RESIDENTIAL",
-    "minSize": [],
-    "maxSize": [],
+    "minSize": [20, 20],
+    "maxSize": [25, 25],
     "isEntity": true
   }
 }
