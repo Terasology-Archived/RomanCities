@@ -18,6 +18,6 @@
                                   "minVersion" : "0.1.1-SNAPSHOT"
                               }],
     "serverSideOnly" : false
-    "serverSideOnly" : false,
+    "isGameplay" : "true",
     "defaultWorldGenerator" : "DynamicCities:DynamicCitiesPerlin"
 }
